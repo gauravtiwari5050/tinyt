@@ -1,0 +1,9 @@
+{
+  "name": "tinyt",
+  "version": "0.0.1",
+  "description": "Tiny javascript templating engine with async/await support",
+  "main": "index.js",
+  "repository": "git@github.com:gauravtiwari5050/tinyt.git",
+  "author": "Gaurav Tiwari <gauravtiwari5050@gmail.com>",
+  "license": "MIT"
+}
