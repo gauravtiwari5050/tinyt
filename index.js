@@ -24,4 +24,4 @@ async function render(html, options) {
     return rendered;
 }
 
-module.exports.tinyt = render;
+module.exports = render;
