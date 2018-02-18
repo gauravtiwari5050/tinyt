@@ -1,5 +1,5 @@
 {
-  "name": "tinyt",
+  "name": "tinytempo",
   "version": "0.0.1",
   "description": "Tiny javascript templating engine with async/await support",
   "main": "index.js",
